@@ -1,0 +1,24 @@
+{
+  "name": "custom-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/munaai/custom-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/munaai/custom-actions/issues"
+  },
+  "homepage": "https://github.com/munaai/custom-actions#readme",
+  "dependencies": {
+    "@actions/core": "^1.11.1"
+  }
+}
